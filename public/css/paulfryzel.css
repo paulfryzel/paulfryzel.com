@@ -36,7 +36,7 @@ p.img {
 }
 
 #social {
-	text-align: center;
+  text-align: center;
 }
 
 #social_list
@@ -129,7 +129,7 @@ p.img {
 }
 
 #page_wrap.fitness span.result {
-	color: #005bba;
-	display: inline;
-    font-style: italic;
+  color: #005bba;
+  display: inline;
+  font-style: italic;
 }
