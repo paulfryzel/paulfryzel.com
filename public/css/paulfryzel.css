@@ -1,0 +1,135 @@
+#page_wrap {
+  height: 204px;
+  margin: 120px auto 0px auto;
+  width: 480px;
+}
+
+#paulfryzel {
+  background-image: url(../images/paulfryzel.jpg);
+  height: 204px;
+  margin-bottom: 50px;
+  width: 480px;
+}
+
+#paulfryzel span {
+  display: none;
+}
+
+p.content {
+  color: #aaaaaa;
+  font-size: 10pt;
+  text-align: justify;
+  word-spacing: 2px;
+}
+
+p.content a, p.content a:hover, p.content a:visited {
+  color: #aaaaaa;
+  text-decoration: none;
+}
+
+#social a, #social a:hover, #social a:visited {
+  text-decoration: none;
+}
+
+p.img {
+  border: 0;
+}
+
+#social {
+	text-align: center;
+}
+
+#social_list
+{
+  list-style: none;
+}
+
+#social_list span {
+  display: none;
+}
+
+#social_list li {
+  display: inline;
+  margin-left: 20px;
+}
+
+#social_list #facebook {
+  background: url(../images/facebook.gif) no-repeat 0 0;
+  display: inline-block;
+  height: 50px;
+  margin-left: 0px;
+  width: 24px;
+}
+
+#social_list #facebook:hover {
+  background-position: 0 -50px;
+}
+
+#social_list #twitter {
+  background: url(../images/twitter.gif) no-repeat 0 0;
+  display: inline-block;
+  height: 50px;
+  width: 57px;
+}
+
+#social_list #twitter:hover {
+  background-position: 0 -50px;
+}
+
+#social_list #flickr {
+  background: url(../images/flickr.gif) no-repeat 0 0;
+  display: inline-block;
+  height: 50px;
+  width: 60px;
+}
+
+#social_list #flickr:hover {
+  background-position: 0 -50px;
+}
+
+#social_list #linkedin {
+  background: url(../images/linkedin.gif) no-repeat 0 0;
+  display: inline-block;
+  height: 50px;
+  width: 56px;
+}
+
+#social_list #linkedin:hover {
+  background-position: 0 -50px;
+}
+
+#social_list #github {
+  background: url(../images/github.gif) no-repeat 0 0;
+  display: inline-block;
+  height: 50px;
+  width: 57px;
+}
+
+#social_list #github:hover {
+  background-position: 0 -50px;
+}
+
+#page_wrap.fitness h2 {
+  border-top: 1px dashed #222222;
+  color: #003e9c;
+}
+
+#page_wrap.fitness h3 {
+  margin-left: 10px;
+}
+
+#page_wrap.fitness ul {
+  margin-left: 15px;
+}
+
+#page_wrap.fitness span.weight {
+  color: #bbbbbb;
+  float: right;
+  font-size: 12pt;
+}
+
+#page_wrap.fitness span.result {
+	color: #005bba;
+	display: inline;
+    font-style: italic;
+}
