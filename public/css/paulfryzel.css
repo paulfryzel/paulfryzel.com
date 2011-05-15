@@ -105,9 +105,22 @@ p.img {
   width: 57px;
 }
 
+#social_list #foursquare:hover {
+  background-position: 0 -50px;
+}
+
+
+#social_list #foursquare {
+  background: url(../images/foursquare.gif) no-repeat 0 0;
+  display: inline-block;
+  height: 50px;
+  width: 30px;
+}
+
 #social_list #github:hover {
   background-position: 0 -50px;
 }
+
 
 #page_wrap.fitness h2 {
   border-top: 1px dashed #222222;
